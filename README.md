@@ -2,7 +2,7 @@
 import './App.css';
 function MyButton() {
   function handleClick() {
-    alert ("Kan du inte läsa eller???");
+    alert ("Hörrö kan du inte läsa eller???");
   }
 
   return (
@@ -25,7 +25,7 @@ function App() {
         >
           Hej
         </a>
-        <MyButton></MyButton>
+        <MyButton></MyButton>   
       </header>
     </div>
   );
